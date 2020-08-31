@@ -17,16 +17,17 @@ https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap/master
 
 2. Каждая из тем кликабельна и открывает список подтем с кратким описанием и списком источников для изучения. Например:
 
-> Tag helpers
+> Tag helpers [ * ]
 > 
 > В ASP.NET Core на смену помощникам HTML пришли тег-хелперы (теги-помощники). Они позволяют изменять, дополнять или полностью заменять содержимое НТМL-элементов. <...>
 >
 > Источники:
-> - Книга "Pro ASP.NET Core MVC 2" глава 23 [book][RU]
+> - Книга "Pro ASP.NET Core MVC 2" глава 23 [book][RU][ * ]
 > - [Tag Helpers in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-3.1) [doc][EN]
 > - [ASP.NET Core Tag Helpers and View Components](https://app.pluralsight.com/library/courses/aspdotnet-core-tag-helpers) [video][EN][$]
 
 Источники в списке отмечены значками:
+- [ * ] - уровень материала (начинающий | средний | продвинутый )
 - [book] | [doc] | [video] - тип контента: книга, документация, видео и т.п.
 - [RU] | [EN] - язык материала
 - [$] - платный контент

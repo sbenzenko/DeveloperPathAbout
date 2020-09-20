@@ -38,7 +38,9 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.md
 
 ## Стек Технологий Разработки
 - .NET 5 (C# 9)
-- ASP.NET Web Api +Blazor
+- ASP.NET Web Api + Blazor
+- Clean Architecture + CQRS + MediatR
+- Identity
 - Entity Framework
 - MS SQL (?)
 - Хостинг Azure
